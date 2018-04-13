@@ -29,6 +29,6 @@ D:\KARTHIK\Samples\DeployDemo\DeployDemo\bin\System.IO.xml
 D:\KARTHIK\Samples\DeployDemo\DeployDemo\bin\System.Runtime.xml
 D:\KARTHIK\Samples\DeployDemo\DeployDemo\bin\System.Threading.Tasks.xml
 D:\KARTHIK\Samples\DeployDemo\DeployDemo\obj\Debug\DeployDemo.csproj.App.config
+D:\KARTHIK\Samples\DeployDemo\DeployDemo\obj\Debug\DeployDemo.csprojResolveAssemblyReference.cache
 D:\KARTHIK\Samples\DeployDemo\DeployDemo\obj\Debug\DeployDemo.dll
 D:\KARTHIK\Samples\DeployDemo\DeployDemo\obj\Debug\DeployDemo.pdb
-D:\KARTHIK\Samples\DeployDemo\DeployDemo\obj\Debug\DeployDemo.csprojResolveAssemblyReference.cache
