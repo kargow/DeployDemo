@@ -11,6 +11,8 @@ namespace DeployDemo
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            int x=1, y,z;
+            int k = x / 0;
 
         }
     }
